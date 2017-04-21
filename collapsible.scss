@@ -1,0 +1,15 @@
+// Modernizr should add js
+.js {
+	.collapsible {
+		transition: max-height 1s ease-in-out;
+		overflow: hidden;
+
+		&.collapsed {
+
+		}
+
+		&.expanded {
+
+		}
+	}
+}
