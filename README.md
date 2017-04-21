@@ -1,4 +1,4 @@
-# AJAX tabs
+# Collapsible
 
 JS web module which makes items collapsible (eg, mobile menu, or FAQ list).
 
