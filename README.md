@@ -4,4 +4,10 @@ JS web module which makes items collapsible (eg, mobile menu, or FAQ list).
 
 ## Usage
 
-Apply data attributes (selectors) to targetted components. Use more attributes on components to provide options. Use classes to provide animations and other effects. Refer to the code for more information.
+Code should document itself, but brief description below:
+
+- Target components by using data attributes (selectors object)
+- Add other data attributes to provide options (attributes object)
+- Classes are applied at certain point for usage (classes object)
+
+Separate SCSS file may be provided with this module.
